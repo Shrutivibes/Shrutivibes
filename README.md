@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shrutivibes/shrutivibes/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shrutivibes/shrutivibes/output/snake.svg" alt="Snake animation" />
+
 
 ###
